@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreManager", "StoreManager\StoreManager.csproj", "{46F8384B-AF44-4997-BA7C-56BFC6C5F41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly", "..\Vidly\Vidly\Vidly.csproj", "{45039B45-7CD7-4285-9592-EE86A61693D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F8384B-AF44-4997-BA7C-56BFC6C5F41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F8384B-AF44-4997-BA7C-56BFC6C5F41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F8384B-AF44-4997-BA7C-56BFC6C5F41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F8384B-AF44-4997-BA7C-56BFC6C5F41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45039B45-7CD7-4285-9592-EE86A61693D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45039B45-7CD7-4285-9592-EE86A61693D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45039B45-7CD7-4285-9592-EE86A61693D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45039B45-7CD7-4285-9592-EE86A61693D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F974BA3-C39F-4977-907F-2F5DF73F828C}
+	EndGlobalSection
+EndGlobal
